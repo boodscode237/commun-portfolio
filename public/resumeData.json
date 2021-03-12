@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name":"Joel and Donald: Software Developers",
+    "description":"We are software developers.\n We write programs in many languages as Python, Java, Javascript, NodeJs, ReactJS.\n We work in team and join our knowledge",
+    "image":"profilepic.jpg",
+    "bio":"Hi, if you are looking for developers to do things like: \n-A web site;\n-An android App;\n-Backend development,\n-Frontend development\nWeb scarping;\n-Or just creating some scripts to make some particulars actions, you can trust us.",
+    "contactmessage":"You can get in contact with us through:",
+    "email": "pythonjava@gmail.com",
+    "phone": "+7(920)-957-62-48 \n +7(952)-001-67-39",
+    "github":"https://github.com/boodscode237",
+    "project":"https://github.com/boodscode237?tab=repositories",
+    "address":{
+      "street":"Mashinostoyiteli",
+      "city":"Yekaterinburg",
+      "state":"Sverdlovsk Oblast",
+      "zip": "6200000"
+    },
+    "website": "https://github.com/boodscode237",
+    "resumedownload":"https://github.com/boodscode237",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/boodscode237",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/LiubliuYa",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/brice-abodo-7995061b0/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/boodscode237",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"We work in team and we are Versatile. We both study programming in Russia. We are from Cameroon. We speak at least five languages.\n\tWe like doing good job. Joel is the back-end specialist and he also have some knowledge in front end. \n He has some experience in Java, Spring boot.\nHe studied some Kotlin, scala, Pascal,Csharp and did some project on those languages. He now has as pass time writing algorithms.\nDonald is the Python Guy, He also like JavaScript and studies algorithms in Csharp. He is willing to be a machine learning engineer but for now he writes diffrent types of scripts and learn different types of technologies.\nWe both are React enthusiasts and are building our projects together most of the time.",
+    "education":[
+      {
+        "school":"Russian State Vocational and Pedagogical University: Donald",
+        "degree":"Pending Bachelor degree",
+        "graduated":"August 2023",
+        "description":"At School, we learn Java, Csharp and C++. We learn how to use AutoCad and we learn Game programming with the platform Unreal, We also learn DataBase Management and Some web development. We added some information Security module and we have some seminars on AI."
+      },
+      {
+        "school":"University: Joel",
+        "degree":"tu ecris ici",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"Csharp",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"Kotlin",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Online Shop",
+        "category":"E-commerce Web App with React and stripe",
+        "image":"e-shop.png",
+        "url":"https://abel-e-shop.herokuapp.com/"
+      },
+      {
+        "title":"Robot Selection First React App",
+        "category":"React App",
+        "image":"robotfriends.png",
+        "url":"https://boodscode237.github.io/robotfriend/"
+      },
+      {
+        "title":"Amazon Clone App",
+        "category":"Website we built to practise our React knowledge",
+        "image":"amazon-clone-app.png",
+        "url":"https://clone-app-57ae4.web.app/"
+      },
+      {
+        "title":"React Covid Tracker",
+        "category":"A React based covid tracker site",
+        "image":"react-covid-tracker.png",
+        "url":"https://covid-19-tracker-c503b.web.app/"
+      },
+      {
+        "title":"Telegram Bot",
+        "category":"(Not Online for now) Building telegram Bots",
+        "image":"robotfriends.png",
+        "url":"https://t.me/abelchannel23"
+      }
+    ]
+  }
+}
